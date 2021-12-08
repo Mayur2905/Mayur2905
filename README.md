@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js 
 - 📫 You reach me at mayurgaikwad0101@gmail.com
-- ☑️ You can also reach me on linkedin at www.linkedin.com/in/mayur-gaikwad-7385051b5
-
+<p>
+</p>
 <p align="center">
     <img width="500"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur2905&langs_count=10&layout=compact&theme=tokyonight" 
