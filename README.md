@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mayur-gaikwad-7385051b5/" target="blank">
+    <a href="https://www.linkedin.com/in/mayur-gaikwad-7385051b5/" target="_blank">
         <img src='img/linkedin.svg' alt='linkedin' height='40'>
     </a>
-    <a href="https://twitter.com/GorakshaMayur" target="blank">
+    <a href="https://twitter.com/GorakshaMayur" target="_blank">
         <img src='img/twitter.svg' alt='twitter' height='40'>
     </a>
-    <a href="https://t.me/Mayur290501" target="blank">
+    <a href="https://t.me/Mayur290501" target="_blank">
         <img src='img/telegram.svg' alt='telegram' height='40'>
     </a>
 </p>
