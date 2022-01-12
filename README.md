@@ -7,7 +7,7 @@
 <p align="center">
     <img width="500"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur2905&langs_count=10&layout=compact&theme=tokyonight" 
-        alt="Sushant's Top Languages"
+        alt="Mayur's Top Languages"
     />
 </p>
 <p align="center">
