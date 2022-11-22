@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayur2905
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js 
-- 📫 You reach me at mayurgaikwad0101@gmail.com
+- 📫 You reach me at mayurgaikwad0101@gmail.com or mayur.gaikwad122019@gcoeara.ac.in
 <p>
 </p>
 <p align="center">
