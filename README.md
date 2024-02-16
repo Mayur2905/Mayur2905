@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DevOps
 - 📫 You reach me at mayurgaikwad0101@gmail.com or mayur.gaikwad122019@gcoeara.ac.in
-#HEY MAYUR, Pratik this side i have made some changes in this repo. Hope this suggestion will help you.
+
 ## 📊 GitHub Stats:
 <p>
 </p>
