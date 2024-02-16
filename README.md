@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DevOps
 - 📫 You reach me at mayurgaikwad0101@gmail.com or mayur.gaikwad122019@gcoeara.ac.in
-
+#Hello Mayur from Batch24 !!! Study well !!
 ## 📊 GitHub Stats:
 <p>
 </p>
