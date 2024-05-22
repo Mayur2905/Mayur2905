@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats:
 <p>
 </p>
-<p align="center">
+<!-- <p align="center">
     <img width="500"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur2905&langs_count=10&layout=compact&theme=tokyonight" 
         alt="Mayur's Top Languages"
@@ -16,7 +16,8 @@
 <p align="center">
     <img width="500"
    src="https://github-readme-stats.vercel.app/api?username=mayur2905&theme=dark&show_icons=true"/>
-</p>
+</p> -->
+<img src="https://myreadme.vercel.app/api/embed/mayur2905?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 ## 🏆 GitHub Trophies
