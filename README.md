@@ -24,7 +24,6 @@ I'm a passionate DevOps engineer with hands-on experience in cloud infrastructur
 
 ### Experience
 
-#### Intern DevOps Engineer at CloudBlitz Technology
 - **Linux Administration**: User management, job scheduling, file handling, package management.
 - **AWS**: Managed EC2 instances, configured IAM roles, set up S3 buckets, designed VPCs, deployed RDS databases, and configured Route 53.
 - **CI/CD**: Implemented continuous integration and continuous deployment pipelines using Jenkins.
