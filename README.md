@@ -61,9 +61,8 @@ I'm a passionate DevOps engineer with hands-on experience in cloud infrastructur
 
 ### Certifications
 
-- **AWS Certified Solutions Architect**
-- **Certified Kubernetes Administrator (CKA)**
-- **Docker Certified Associate (DCA)**
+- **AWS Cloud Practioner Essential**
+- **Git Training**
 
 ---
 
